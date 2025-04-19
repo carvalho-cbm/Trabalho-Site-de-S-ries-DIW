@@ -1,0 +1,16 @@
+.custom-position {
+    position: relative;
+    right: 130px;
+    top: 40px;
+}
+
+.carousel-inner{
+    border-radius: 10px;
+    border: 2px;
+    display: flex;
+    align-items: center;
+    height: 350px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
